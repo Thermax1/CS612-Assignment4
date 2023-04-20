@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blog>
+    <post id ="1">
+        <date>April 18, 2023</date>
+        <author>Anthony Munoz</author>
+        <title>A Small Rant on Control, the 2019 Video Game</title>
+        <summary>
+            <image_path>images/Jesse-Faden.jpg</image_path>
+            <text>Little Rant About the Game That Blew Me Away</text>
+        </summary>
+        <body>In 2019, Remedy Entertainment released Control, an action-adventure video game about a woman named Jesse Faden. Okay, that's a lie. Jesse is just the character we play as. The real protagonist is the Federal Bureau of Control (FBC) and its place of operations, the Oldest House. The FBC is the "they" that conspiracy theories talk about. 
+        They contain and study paranatural phenomena, such as a floppy disk that throws objects around like telekenesis. The Oldest House is the greatest phenomena of all. The building is bigger on the inside, like a TARDIS, and it seems to have infinite space. Lastly, you can only see the building if you're looking for it, so unless you work there or get hired, it's invisible to everyone else. Did I mention this skyscraper is in the middle of Manhattan? Amazing, right?! Either way, I don't want to give anything away, just give the game a chance. If you're into paranatural stories and like the idea of a government organization trying to make the abnormal just another Bureaucratic process, this game is for you!
+        </body>
+    </post>
+
+    <post id="2">
+        <date>April 19, 2023</date>
+        <author>Anthony Munoz</author>
+        <title>Does Anybody Else Feel Like Their Attention Span is Dying?</title>
+        <summary>
+            <image_path>images/asleep-man.jpg</image_path>
+            <text>A small article talking about an issue that I've seen get worse over the years.</text>
+        </summary>
+        <body>It is the year of our Lord 2023, and I feel like I can't focus on anything EVER. No Youtube video, workout routine, book, or weird hack I read helps. I cannot be alone in this issue. It can't be a Gen-Z thing, either. This might be one of the effects of the Internet that future generations will say "I can't believe they didn't do xyz to combat the issue."
+        So, why is this happening? I think the modern culprits as of April 2023 is the new short video format made popular by Vine, Tiktok, Youtube Shorts, etc. You go from video to video every minute or so, laugh at something, go about your day, and realize that you just wasted an hour looking at stupid videos you won't remember! So, our brains get so stimulated to the point that sitting down and reading a book or focusing on a coding project becomes a Herculean task that I'm pretty sure 13 year old me could finish faster! I don't even fully read books anymore. I've gone towards audio books because I need the audio stimulation to pay attention to the plot. it sounds ridiculous as I say it. 
+        Dear Lord. I don't know the solution to it. I just wanted to put these thoughts down. Thanks for reading! 
+        </body>
+    </post>
+
+    <post id="3">
+        <date>April 21, 2023</date>
+        <author>Anthony Munoz</author>
+        <title>I Finally Finished My React Project</title>
+        <summary>
+            <image_path>images/victory-pose.jpg</image_path>
+            <text>A Random Blog About Me Talking About Completing This Homework</text>
+        </summary>
+        <body>I did it! I have completed my first React static page ever. It's probably janky and not optimal, but I did it! I still don't know why people say Javascript is a beautiful language. It isn't. At least I kind of understand it now. I don't think Front-End Web Development is for me, but I greatly appreciate the people who do it, because I like using the Internet more than I should! Either way, this is the shortest blog. Just wanted to write this for myself. 
+        </body>
+    </post>
+</blog>
