@@ -64,7 +64,7 @@ function Nav() {
 // Similar HttPRequest to get the News articles. Better than fetch for me.
   useEffect(() => {
     const xmlStart = new XMLHttpRequest();
-    xmlStart.open('GET' , 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=69b9f4c3a32d4b719905990186c26184');
+    xmlStart.open('GET' , 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=');
     xmlStart.onload = () => {
       const jsonData = JSON.parse(xmlStart.responseText);
       setArticles(jsonData.articles);
@@ -74,7 +74,7 @@ function Nav() {
     const timeID = setInterval(() => {
       // Console log is self-check to see if the page updates and it does.
       console.log('Updating the news');
-      xmlStart.open('GET' , 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=69b9f4c3a32d4b719905990186c26184');
+      xmlStart.open('GET' , 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=');
       xmlStart.send();
     }, 60000);
 
